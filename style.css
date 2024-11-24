@@ -1,0 +1,12 @@
+.centered {
+    text-align: center;
+}
+
+.left-aligned {
+    text-align: left;
+}
+
+body {
+    background-color: rgb(18, 54, 102);
+    color: rgb(240, 248, 255);
+}
