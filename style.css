@@ -91,6 +91,10 @@ body {
     color: rgb(240, 248, 255);
 }
 
+p {
+    line-height: 1.5em;
+}
+
 #panel {
     border-radius: 25px;
     background: rgb(54, 137, 105);
